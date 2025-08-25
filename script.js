@@ -7,6 +7,7 @@
 // @match        https://banner.apps.uillinois.edu/StudentRegistrationSSB/ssb/registrationHistory/registrationHistory
 // @run-at       document-idle
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
